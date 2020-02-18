@@ -20,3 +20,5 @@ Naviage to Cases (CR.30.60.00) and you will see stopwatch like button control as
 ![Screenshot](/_ReadMeImages/CaseWithStopwatch.png)
 
 Button acts as a toggle. User can click on it to start and stop the timer.  Changes to the screen including timer value can be saved using the Save button.
+
+### Updated for 2019R2 and 2020R1
