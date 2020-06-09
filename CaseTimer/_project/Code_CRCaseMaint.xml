@@ -28,7 +28,7 @@ namespace PX.Objects.CR
 
         public PXAction<PX.Objects.CR.CRCase> Test;
 
-        [PXButton(CommitChanges = true)]
+        [PXButton(CommitChanges = true)]  // test
         [PXUIField(DisplayName = "Test")]
         protected void test()
         {
